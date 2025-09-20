@@ -42,10 +42,10 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
               <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">CA</span>
+                <span className="text-primary-foreground font-bold text-lg">SC</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold">ContableAsesores</h3>
+                <h3 className="text-xl font-bold">ServiCont</h3>
                 <p className="text-sm text-white/70">Servicios Contables</p>
               </div>
             </div>
@@ -126,10 +126,10 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-accent flex-shrink-0" />
                 <a 
-                  href="mailto:info@contableasesores.com"
+                  href="mailto:info@servicont.com"
                   className="text-white/80 hover:text-white transition-colors duration-200 text-sm"
                 >
-                  info@contableasesores.com
+                  info@servicont.com
                 </a>
               </div>
             </div>
@@ -151,7 +151,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 lg:px-6 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-white/60 text-sm text-center md:text-left">
-              © {currentYear} ContableAsesores. Todos los derechos reservados.
+              © {currentYear} ServiCont. Todos los derechos reservados.
             </p>
             
             <div className="flex space-x-6 text-sm">

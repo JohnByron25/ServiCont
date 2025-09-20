@@ -6,14 +6,14 @@ const TestimonialsSection = () => {
       name: "María González",
       position: "Directora Ejecutiva",
       company: "Innovación S.A.S.",
-      content: "ContableAsesores ha sido fundamental en el crecimiento de nuestra empresa. Su profesionalismo y atención al detalle nos han permitido mantener nuestras finanzas en orden mientras nos enfocamos en nuestro negocio principal.",
+      content: "ServiCont ha sido fundamental en el crecimiento de nuestra empresa. Su profesionalismo y atención al detalle nos han permitido mantener nuestras finanzas en orden mientras nos enfocamos en nuestro negocio principal.",
       rating: 5
     },
     {
       name: "Carlos Rodríguez",
       position: "Gerente General",
       company: "TechSolutions Ltda.",
-      content: "El equipo de ContableAsesores nos ayudó a optimizar nuestra estructura tributaria, generando ahorros significativos. Su asesoría estratégica es invaluable para cualquier empresa que busque crecer de manera sostenible.",
+      content: "El equipo de ServiCont nos ayudó a optimizar nuestra estructura tributaria, generando ahorros significativos. Su asesoría estratégica es invaluable para cualquier empresa que busque crecer de manera sostenible.",
       rating: 5
     },
     {

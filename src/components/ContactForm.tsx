@@ -59,8 +59,8 @@ const ContactForm = () => {
     {
       icon: Mail,
       title: "Email",
-      content: "info@contableasesores.com",
-      link: "mailto:info@contableasesores.com"
+      content: "info@servicont.com",
+      link: "mailto:info@servicont.com"
     },
     {
       icon: MapPin,
