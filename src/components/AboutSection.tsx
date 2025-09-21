@@ -34,7 +34,7 @@ const AboutSection = () => {
             Sobre Nosotros
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Somos un equipo de contadores públicos especializados con más de 15 años 
+            Somos un equipo de contadores públicos especializados con más de 13 años 
             de experiencia brindando servicios contables y financieros de calidad.
           </p>
         </div>
@@ -54,7 +54,7 @@ const AboutSection = () => {
             {/* Floating Card */}
             <div className="absolute -bottom-8 -right-8 bg-white p-6 rounded-xl shadow-[var(--shadow-elevated)] border border-border">
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary">15+</div>
+                <div className="text-3xl font-bold text-primary">13+</div>
                 <div className="text-sm text-muted-foreground">Años de experiencia</div>
               </div>
             </div>
