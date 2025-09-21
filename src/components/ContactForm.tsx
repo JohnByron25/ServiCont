@@ -53,25 +53,25 @@ const ContactForm = () => {
     {
       icon: Phone,
       title: "Teléfono",
-      content: "+57 (1) 234-5678",
-      link: "tel:+5712345678"
+      content: "+593980408926",
+      link: "tel:+593980408926"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "info@servicont.com",
-      link: "mailto:info@servicont.com"
+      content: "servicont79@gmail.com",
+      link: "mailto:servicont79@gmail.com"
     },
     {
       icon: MapPin,
       title: "Dirección",
-      content: "Carrera 15 #93-47, Oficina 502, Bogotá D.C.",
+      content: "Montalvo, Los Ríos, Ecuador",
       link: "https://maps.google.com"
     },
     {
       icon: Clock,
       title: "Horarios",
-      content: "Lun - Vie: 8:00 AM - 6:00 PM",
+      content: "Lun - Vie: 9:00 AM - 7:00 PM",
       link: null
     }
   ];
@@ -146,7 +146,7 @@ const ContactForm = () => {
                       value={formData.phone}
                       onChange={handleInputChange}
                       className="w-full"
-                      placeholder="+57 123 456 7890"
+                      placeholder="+593 987 654 321"
                     />
                   </div>
                   
@@ -245,7 +245,9 @@ const ContactForm = () => {
                 para atenderte de lunes a viernes.
               </p>
               <a 
-                href="tel:+5712345678"
+                href="https://wa.me/593980408926"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center bg-white text-primary hover:bg-white/90 px-4 py-2 rounded-lg font-semibold transition-colors duration-200"
               >
                 <Phone className="w-4 h-4 mr-2" />

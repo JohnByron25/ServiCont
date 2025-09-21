@@ -21,8 +21,6 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: Facebook, href: "#", label: "Facebook" },
-    { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Linkedin, href: "#", label: "LinkedIn" },
     { icon: Instagram, href: "#", label: "Instagram" }
   ];
 
@@ -51,7 +49,7 @@ const Footer = () => {
             </div>
             
             <p className="text-white/80 leading-relaxed mb-6">
-              Más de 15 años brindando servicios contables, tributarios y financieros 
+              Más de 13 años de experiencia brindando servicios contables, tributarios y financieros 
               profesionales a empresas que buscan excelencia y transparencia.
             </p>
 
@@ -107,8 +105,7 @@ const Footer = () => {
                 <MapPin className="w-5 h-5 text-accent mt-1 flex-shrink-0" />
                 <div>
                   <p className="text-white/80 text-sm">
-                    Carrera 15 #93-47, Oficina 502<br />
-                    Bogotá D.C., Colombia
+                    Montalvo, Los Ríos, Ecuador
                   </p>
                 </div>
               </div>
@@ -116,20 +113,20 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-accent flex-shrink-0" />
                 <a 
-                  href="tel:+5712345678"
+                  href="tel:+593980408926"
                   className="text-white/80 hover:text-white transition-colors duration-200 text-sm"
                 >
-                  +57 (1) 234-5678
+                  +593980408926
                 </a>
               </div>
               
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-accent flex-shrink-0" />
                 <a 
-                  href="mailto:info@servicont.com"
+                  href="mailto:servicont79@gmail.com"
                   className="text-white/80 hover:text-white transition-colors duration-200 text-sm"
                 >
-                  info@servicont.com
+                  servicont79@gmail.com
                 </a>
               </div>
             </div>
@@ -138,8 +135,7 @@ const Footer = () => {
             <div className="mt-6 p-4 bg-white/5 rounded-lg">
               <h5 className="font-semibold mb-2 text-accent">Horarios de Atención</h5>
               <p className="text-sm text-white/80">
-                Lunes - Viernes: 8:00 AM - 6:00 PM<br />
-                Sábados: 8:00 AM - 12:00 PM
+                Lunes - Viernes: 9:00 AM - 7:00 PM
               </p>
             </div>
           </div>

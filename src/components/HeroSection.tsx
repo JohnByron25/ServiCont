@@ -35,7 +35,7 @@ const HeroSection = () => {
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20 mb-8">
             <Award className="w-4 h-4" />
-            <span className="text-sm font-medium">+15 años de experiencia</span>
+            <span className="text-sm font-medium">más de 13 años de experiencia</span>
           </div>
 
           {/* Main Heading */}

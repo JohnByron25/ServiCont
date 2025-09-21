@@ -3,24 +3,24 @@ import { Star, Quote } from "lucide-react";
 const TestimonialsSection = () => {
   const testimonials = [
     {
-      name: "María González",
-      position: "Directora Ejecutiva",
-      company: "Innovación S.A.S.",
-      content: "ServiCont ha sido fundamental en el crecimiento de nuestra empresa. Su profesionalismo y atención al detalle nos han permitido mantener nuestras finanzas en orden mientras nos enfocamos en nuestro negocio principal.",
+      name: "Lubricadora Sulay",
+      position: "Cliente",
+      company: "Montalvo",
+      content: "Desde que trabajamos con este equipo de contadores, nuestra administración financiera es mucho más clara y ordenada. Nos han apoyado con el cumplimiento de nuestras obligaciones tributarias de manera puntual y confiable. Su acompañamiento ha sido clave para enfocarnos en el crecimiento de nuestro negocio.",
       rating: 5
     },
     {
-      name: "Carlos Rodríguez",
-      position: "Gerente General",
-      company: "TechSolutions Ltda.",
-      content: "El equipo de ServiCont nos ayudó a optimizar nuestra estructura tributaria, generando ahorros significativos. Su asesoría estratégica es invaluable para cualquier empresa que busque crecer de manera sostenible.",
+      name: "Clic Noticias",
+      position: "Cliente",
+      company: "Babahoyo",
+      content: "Su asesoría contable ha sido de gran ayuda para nuestra empresa. Siempre están disponibles para resolver dudas y brindar soluciones rápidas. Gracias a ellos mantenemos nuestras cuentas al día y evitamos problemas con impuestos. Un servicio cercano, profesional y muy recomendado.",
       rating: 5
     },
     {
-      name: "Ana Patricia Herrera",
-      position: "Fundadora",
-      company: "Comercial del Norte",
-      content: "La tranquilidad que nos brinda saber que nuestros temas contables están en manos expertas no tiene precio. Siempre están disponibles para resolver dudas y su servicio es impecable.",
+      name: "JAP S.A.C",
+      position: "Cliente",
+      company: "Guayaquil",
+      content: "Trabajar con esta firma de contadores nos ha dado tranquilidad. Se encargan de todo el proceso contable y tributario con gran responsabilidad y transparencia. Nos han permitido optimizar recursos y enfocarnos en la operación de la empresa sin preocupaciones.",
       rating: 5
     }
   ];
